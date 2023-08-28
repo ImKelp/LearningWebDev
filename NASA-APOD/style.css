@@ -1,0 +1,36 @@
+#copyright {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#title {
+   text-align: center;
+   font-size: 20px;
+   font-family: inter;
+   padding-bottom: 10px;
+}
+#date {
+   text-align: center;
+   font-size: 12px;
+   font-family: Arial;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-right: 200px;
+   padding-left: 200px;
+}
+#description {
+   text-align: center;
+   font-size: 15px;
+   font-family: Arial;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-right: 200px;
+   padding-left: 200px;
+}
+.center { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+} 
